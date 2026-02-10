@@ -3,7 +3,7 @@
 
 I am Jean Heckel. I am currently studying a first year of master's degree Scientific Computation and Mathematics of Innovation at the University of Strasbourg.
 I’m currently learning Scientific Computing, High Perfomance Computing, Image and Signal Processing and Optimisation.
-
+I worked on the numerical simulation of a fin cooling system attached to a microprocessor.
 
   🤔 I’m looking for an internship in the field of Image and Signal Processing for a two-months period.
 
