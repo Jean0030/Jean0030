@@ -5,7 +5,7 @@ I am Jean Heckel. I am currently studying a first year of master's degree Scient
 I’m currently learning Scientific Computing, High Perfomance Computing, Image and Signal Processing and Optimisation.
 
 
-  🤔 I’m looking for an internship in the field of Image and Signal Processing.
+  🤔 I’m looking for an internship in the field of Image and Signal Processing for a two-months period.
 
   📫 How to reach me: heckeljean@gmail.com
 
