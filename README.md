@@ -3,7 +3,7 @@
 I am currently studying a first year of master's degree Scientific Computation and Mathematics of Innovation at the University of Strasbourg.
 
 ## About Me
-I am developping strong skills in Scientific Computing, High Perfomance Computing (MPI, Kokkos, OpenMP and OpenCL), Image and Signal Processing and Optimisation and IA.
+I am developping strong skills in Scientific Computing (Finite Difference Method, Finite Element Method), High Perfomance Computing (MPI, Kokkos, OpenMP, OpenCL), Image and Signal Processing and Optimisation and IA.
 I recently worked on the numerical simulation of a fin‑based cooling system for microprocessors, using Finite Difference Method and linear interpolation to compute the solution in 3D.
 
 
