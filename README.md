@@ -4,7 +4,7 @@ I am currently studying a first year of master's degree Scientific Computation a
 
 ## About Me
 I am developping strong skills in Scientific Computing (Finite Difference Method, Finite Element Method), High Perfomance Computing (MPI, Kokkos, OpenMP, OpenCL), Image and Signal Processing, Optimisation and IA.
-I recently worked on the numerical simulation of a fin‑based cooling system for microprocessors, using Finite Difference Method and linear interpolation to compute the solution in 3D.
+Recently, I worked on the numerical simulation of a fin‑based cooling system for microprocessors, using Finite Difference Method and linear interpolation to compute the solution in 3D.
 
 
 ## Looking for an intership
